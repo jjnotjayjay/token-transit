@@ -3,11 +3,54 @@
   box-sizing: border-box;
 }
 
+.gray-row {
+  background-color: #eee;
+  padding: 50px 0;
+}
+
+p {
+  font-family: "Roboto Slab", serif;
+  color: #777;
+  font-size: 21px;
+  text-align: center;
+  font-weight: 300;
+  padding: 20px;
+}
+
+.gray-row p {
+  margin: 0 16.67%;
+  width: 66.6%;
+}
+
+.white-row {
+  padding: 50px 20px;
+}
+
+.column-third {
+  padding: 20px;
+  width: 33%;
+  float: left;
+}
+
 h3 {
   text-transform: uppercase;
   font-family: "Montserrat", Sans-serif;
+  font-size: 40px;
+  text-align: center;
+  color: #333;
 }
 
-.row p {
-  font-family: "Roboto Slab", serif;
+h6 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.column-third p {
+  line-height: 1.75em;
+}
+
+.text-row {
+  padding-top: 10px;
+  height: 100%;
 }
