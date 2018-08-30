@@ -3,6 +3,40 @@
   box-sizing: border-box;
 }
 
+.main-bg {
+  background: url("assets/header-bg.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+.header-text {
+  padding: 300px 0 200px 0;
+}
+
+h2 {
+  color: white;
+  font-style: italic;
+  font-family: "Droid Serif", serif;
+  font-weight: 400;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: white;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-size: 75px;
+  margin-bottom: 40px;
+}
+
+h5 {
+  text-transform: uppercase;
+  color: #777;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 10px;
+}
+
 .gray-row {
   background-color: #eee;
   padding: 50px 0;
@@ -67,6 +101,7 @@ button {
   background-color: rgb(75, 152, 207);
   font-family: "Montserrat", sans-serif;
   font-weight: 700;
+  border: none;
 }
 
 .centered {
