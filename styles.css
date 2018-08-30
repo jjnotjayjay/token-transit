@@ -59,3 +59,16 @@ h6 {
   width: 33%;
   padding: 0 5%;
 }
+
+button {
+  text-transform: uppercase;
+  padding: 20px 40px;
+  color: white;
+  background-color: rgb(75, 152, 207);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+.centered {
+  text-align: center;
+}
