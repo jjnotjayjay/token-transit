@@ -72,3 +72,10 @@ button {
 .centered {
   text-align: center;
 }
+
+footer {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  padding: 20px 60px;
+  overflow: auto;
+}
