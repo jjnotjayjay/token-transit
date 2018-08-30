@@ -52,5 +52,5 @@ h6 {
 
 .text-row {
   padding-top: 10px;
-  height: 100%;
+  overflow: auto;
 }
